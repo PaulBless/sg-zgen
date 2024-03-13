@@ -79,7 +79,7 @@
 
 
   // Testimonial slider
-  var tesitmonial_slider = new Swiper(".testimonial__slider", {
+  var testmonial_slider = new Swiper(".testimonial__slider", {
     loop: true,
     speed: 1500,
     spaceBetween: 30,
